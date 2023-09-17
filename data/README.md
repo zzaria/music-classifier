@@ -1,0 +1,1 @@
+Make a folder for each of your classnames and put your music files (.wav format) in the respective folder. The program will put the spectrograms in the spectrograms folder.
